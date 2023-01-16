@@ -1,2 +1,2 @@
 # JAVA
-just for testing
+just for practice 
